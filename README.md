@@ -1,24 +1,6 @@
-# vue-crash-todo
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 뷰로 투두리스트 만들기
+### 참고영상
+https://youtu.be/Wy9q22isx3U <br>
+Traversy Media
+<br><br>
+##
